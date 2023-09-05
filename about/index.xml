@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUT on Marek</title>
-    <link>https://maznaz-ha.github.io/marek.wayland.one/about/</link>
+    <link>https://marek.wayland.one/about/</link>
     <description>Recent content in ABOUT on Marek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Marek</copyright><atom:link href="https://maznaz-ha.github.io/marek.wayland.one/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Marek</copyright><atom:link href="https://marek.wayland.one/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
