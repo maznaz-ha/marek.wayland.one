@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Marek</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://marek.wayland.one/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Sep 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Interest in AI Waning?</title>
+      <link>https://marek.wayland.one/post/ai-waning/</link>
+      <pubDate>Tue, 05 Sep 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://marek.wayland.one/post/ai-waning/</guid>
+      <description>Is the Novelty of Generative AI Wearing Off? 🤖⏳ AI generated pastiche of Le Penseur de Rodin
+In light of recent data analysis by Rand Fishkin and the team at Datos, questions around the staying power of generative AI—particularly ChatGPT—are increasingly relevant. &amp;ldquo;We Analyzed Millions of ChatGPT User Sessions: Visits are Down 29% since May, Programming Assistance is 30% of Use&amp;rdquo; is the title that has us all talking. Is generative AI experiencing a downward trend, or are we witnessing a seasonal or situational ebb in usage?</description>
+    </item>
+    
     <item>
       <title>Getting started</title>
       <link>https://marek.wayland.one/post/getting-started/</link>
@@ -39,15 +49,6 @@
       <guid>https://marek.wayland.one/portfolio/sample-project/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Archetypes management</title>
-      <link>https://marek.wayland.one/post/archetypes/</link>
-      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
-      
-      <guid>https://marek.wayland.one/post/archetypes/</guid>
-      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
     </item>
     
     <item>
