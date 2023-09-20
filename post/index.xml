@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Marek Narkiewicz</copyright>
-    <lastBuildDate>Tue, 05 Sep 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Sep 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EC2 or not EC2? That is the question.</title>
+      <link>https://marek.wayland.one/post/aws-or-not/</link>
+      <pubDate>Mon, 18 Sep 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://marek.wayland.one/post/aws-or-not/</guid>
+      <description>&lt;p&gt;Is AWS an automatic choice for infrastructure?&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://marek.wayland.one/post/images/ai-hamlet.png&#34;
+         alt=&#34;AI generated watercolour of Hamlet&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;AI generated watercolour of Hamlet&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
     <item>
       <title>Is Interest in AI Waning?</title>
       <link>https://marek.wayland.one/post/ai-waning/</link>
@@ -16,8 +30,22 @@
       <guid>https://marek.wayland.one/post/ai-waning/</guid>
       <description>&lt;p&gt;Is the Novelty of Generative AI Wearing Off? 🤖⏳&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&#34;https://marek.wayland.one/post/images/ai-thinker.png&#34;
-         alt=&#34;AI generated pastiche of Le Penseur de Rodin&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;AI generated pastiche of Le Penseur de Rodin&lt;/p&gt;
+         alt=&#34;AI generated pastiche of &amp;amp;lsquo;The Thinker&amp;amp;rsquo; by Rodin&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;AI generated pastiche of &amp;lsquo;The Thinker&amp;rsquo; by Rodin&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Is Serverless Dead?</title>
+      <link>https://marek.wayland.one/post/serverless-dead/</link>
+      <pubDate>Mon, 28 Aug 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://marek.wayland.one/post/serverless-dead/</guid>
+      <description>&lt;p&gt;Is Serverless architecture a passing trend?&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://marek.wayland.one/post/images/marktwain.jpg&#34;
+         alt=&#34;Mark Twain on the subject of his death&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;Mark Twain on the subject of his death&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;</description>
     </item>

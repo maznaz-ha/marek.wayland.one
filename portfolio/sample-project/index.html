@@ -39,11 +39,13 @@
     
     window.onload = function() {
 
-      var a = document.getElementById("emailNot");
+      var a = document.getElementsByClassName('emailNot');
 
-      a.onclick = function() {
-        document.getElementById('formbutton-button').click();
-        return false;
+      for (var i = a.length; i--;) {
+        a[i].onclick = function() {
+          document.getElementById('formbutton-button').click();
+          return false;
+        }
       }
     }
 </script>
@@ -96,12 +98,6 @@ if (!doNotTrack) {
         </p>
 
         <p>
-            <a href="/portfolio/">
-                Portfolio
-            </a>
-        </p>
-
-        <p>
             <a href="/post/">
                 Thoughts
             </a>
@@ -109,7 +105,7 @@ if (!doNotTrack) {
 
       
         <p>
-          <a href="#" id="emailNot" target="_blank" rel="external">
+          <a href="#" class="emailNot" target="_blank" rel="external">
                 Email me
             </a>
         </p>
@@ -180,12 +176,6 @@ if (!doNotTrack) {
         <p>
             <a href="/about/">
                 About
-            </a>
-        </p>
-
-        <p>
-            <a href="/portfolio/">
-                Portfolio
             </a>
         </p>
 
