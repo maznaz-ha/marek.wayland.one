@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Marek Narkiewicz</copyright>
-    <lastBuildDate>Mon, 18 Sep 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Sep 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Fundamentals - What is ChatGPT?</title>
+      <link>https://marek.wayland.one/post/ai-fun-chatgpt/</link>
+      <pubDate>Wed, 27 Sep 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://marek.wayland.one/post/ai-fun-chatgpt/</guid>
+      <description>&lt;p&gt;What chatGPT is and what it isn&amp;rsquo;t 🤖&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://marek.wayland.one/post/images/chatgpt.png&#34;
+         alt=&#34;AI generated visualisation of chatGPT as described by chatGPT&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;AI generated visualisation of chatGPT as described by chatGPT&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
     <item>
       <title>EC2 or not EC2? That is the question.</title>
       <link>https://marek.wayland.one/post/aws-or-not/</link>
