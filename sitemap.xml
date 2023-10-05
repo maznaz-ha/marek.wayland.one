@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marek.wayland.one/post/ai-fun-chatgpt/</loc>
-    <lastmod>2023-09-27T09:00:00+00:00</lastmod>
+    <loc>https://marek.wayland.one/</loc>
+    <lastmod>2023-10-05T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://marek.wayland.one/</loc>
-    <lastmod>2023-09-27T09:00:00+00:00</lastmod>
+    <loc>https://marek.wayland.one/post/lead-fun-high-performing/</loc>
+    <lastmod>2023-10-05T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://marek.wayland.one/post/</loc>
+    <lastmod>2023-10-05T09:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://marek.wayland.one/post/ai-fun-chatgpt/</loc>
     <lastmod>2023-09-27T09:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
