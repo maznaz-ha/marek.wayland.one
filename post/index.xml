@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Marek Narkiewicz</copyright>
-    <lastBuildDate>Thu, 05 Oct 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Oct 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Fundamentals - What is AI Image Generation?</title>
+      <link>https://marek.wayland.one/post/ai-fun-image-generation/</link>
+      <pubDate>Thu, 26 Oct 2023 09:00:00 +0000</pubDate>
+      
+      <guid>https://marek.wayland.one/post/ai-fun-image-generation/</guid>
+      <description>&lt;p&gt;What is AI image generation? 🤖&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://marek.wayland.one/post/images/bored_androids.png&#34;
+         alt=&#34;AI generated visualisation of some bored androids&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;AI generated visualisation of some bored androids&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
     <item>
       <title>Leadership Fundamentals - The 5 Essential Characteristics of a High-Performing Team</title>
       <link>https://marek.wayland.one/post/lead-fun-high-performing/</link>
