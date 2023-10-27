@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Marek Narkiewicz</copyright>
-    <lastBuildDate>Thu, 26 Oct 2023 09:00:00 +0000</lastBuildDate><atom:link href="https://marek.wayland.one/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 09:00:00 +0100</lastBuildDate><atom:link href="https://marek.wayland.one/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced AI Topics - Embeddings</title>
+      <link>https://marek.wayland.one/post/embeddings/</link>
+      <pubDate>Fri, 27 Oct 2023 09:00:00 +0100</pubDate>
+      
+      <guid>https://marek.wayland.one/post/embeddings/</guid>
+      <description>&lt;p&gt;How do robots compare things? 🤖&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://marek.wayland.one/post/images/meme-pam.jpg&#34;
+         alt=&#34;It&amp;amp;rsquo;s an older meme, but it checks out&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;It&amp;rsquo;s an older meme, but it checks out&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
     <item>
       <title>AI Fundamentals - What is AI Image Generation?</title>
       <link>https://marek.wayland.one/post/ai-fun-image-generation/</link>
